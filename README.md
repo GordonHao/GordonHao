@@ -42,7 +42,7 @@
   - [一言堂](https://github.com/GordonHao/render-sentence-each-time): 每日一句經典名言; <!--- 待增加使用說明-->
 
 ## 演講和講義
-  <!--- 2021年中公司內部分享: [Docker](),敏捷式開發介紹。-->
+  - 2021年中公司內部分享: [Docker_使用手冊](https://docs.google.com/presentation/d/1q33rL0vVq5RxCPV4F1cekoIX0YBmEGnl/edit#slide=id.p18),Docker 使用Q&A及以 Tomcat 8.5.38 為範例做 Docker 架設。
   - 2021年初公司內部分享: [SCRUM_敏捷式開發](https://docs.google.com/presentation/d/1VXxtLK4H9L6uC9Pmor-eL4sdKolkcffK/edit),敏捷式開發介紹。
  
 # 技能清單
